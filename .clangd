@@ -1,0 +1,8 @@
+﻿CompileFlags:
+    Add: [-xc++, -std=c++2b, -Weffc++]   
+    Remove: -W* 
+    
+Diagnostics:
+  ClangTidy:
+    Add: [ modernize*, altera*, performance*]
+	  #Remove: [-bugprone-easily-swappable-parameters]

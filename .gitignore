@@ -1,0 +1,78 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+/glfw-3.3.6
+/bin
+/out
+/build
+/.vscode
+/assets
+/.vs
+*.idx
+*.json
+*.json
+/third_party
+/bin
+/assets
+/glfw
+/glm
+/*.7z
+.clang-format
+.clang-format_11
+.clang-format_7
+/CMakeFiles
+/volk
+*.zip
+/sleef
+/brcxxc
+bbrcxxc.exe
+/tracy
+*.s
+*.ii
+*.bc
+*.ninja
+.ninja_log
+.ninja_deps
+*.cmake
+CMakeCache.txt
+CMakeCache.txt
+CMakeCache.txt
+CMakeCache.txt
+CMakeCache.txt
+shaderc/
+include/glslang/build_info.h
+*.i
+Vulkan-Headers/
+VulkanMemoryAllocator/
+stb/
